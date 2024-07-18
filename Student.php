@@ -9,7 +9,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
         <title></title>
     </head>
     <body>
-        
+        hello
         <?php
         $conn= mysqli_connect("localhost:3306","root","root");
         if($conn)
